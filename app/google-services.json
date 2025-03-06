@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840794339484",
+    "firebase_url": "https://mobilproject-2b856-default-rtdb.firebaseio.com",
+    "project_id": "mobilproject-2b856",
+    "storage_bucket": "mobilproject-2b856.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840794339484:android:cc57dd6a386691b112d559",
+        "android_client_info": {
+          "package_name": "com.betulguner.mobilproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840794339484-v7qpejk7mgjjckgjglpmhikmq3dfr2cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.betulguner.mobilproject",
+            "certificate_hash": "cec12cb86f3009c18318bb40d7308dedade33641"
+          }
+        },
+        {
+          "client_id": "840794339484-ijrlkckk5tfggq67ce5guma3fraucu16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyRET94mbrUAm8FDaVDZcUajgaTVNqqvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840794339484-ijrlkckk5tfggq67ce5guma3fraucu16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
